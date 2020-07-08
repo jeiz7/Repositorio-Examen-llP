@@ -1,0 +1,9 @@
+C:\Users\Jeizel\Desktop\jeizel - Copy\proyectoComputadora\obj\Debug\examen.vbprojAssemblyReference.cache
+C:\Users\Jeizel\Desktop\jeizel - Copy\proyectoComputadora\obj\Debug\proyectoComputadora.FrmClientes.resources
+C:\Users\Jeizel\Desktop\jeizel - Copy\proyectoComputadora\obj\Debug\proyectoComputadora.Resources.resources
+C:\Users\Jeizel\Desktop\jeizel - Copy\proyectoComputadora\obj\Debug\examen.vbproj.GenerateResource.cache
+C:\Users\Jeizel\Desktop\jeizel - Copy\proyectoComputadora\obj\Debug\examen.vbproj.CoreCompileInputs.cache
+C:\Users\Jeizel\Desktop\jeizel - Copy\proyectoComputadora\obj\Debug\proyectoComputadora.exe
+C:\Users\Jeizel\Desktop\jeizel - Copy\proyectoComputadora\obj\Debug\proyectoComputadora.xml
+C:\Users\Jeizel\Desktop\jeizel - Copy\proyectoComputadora\obj\Debug\proyectoComputadora.pdb
+C:\Users\Jeizel\Desktop\jeizel - Copy\proyectoComputadora\obj\Debug\proyectoComputadora.Login.resources
